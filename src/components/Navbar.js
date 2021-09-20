@@ -9,6 +9,7 @@ export default function AppNavbar() {
         <Navbar.Brand href="#home">Daryl G.</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
+                <Nav.Link href="#about">About</Nav.Link>
                 <Nav.Link href="#link">Link</Nav.Link>
             </Nav>
         </Navbar>
